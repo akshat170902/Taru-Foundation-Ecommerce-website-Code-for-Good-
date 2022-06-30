@@ -1,0 +1,153 @@
+{
+  "Header": {
+    "title": "ACT RESPONSIBLE! THINK SUSTAINABLE ",
+    "paragraph": "Our mission is to work for the creation, protection and to work for the sustainable growth of the society and country."
+  },
+  "About": {
+    "paragraph": "Taru Is A Group Of Social Experts And Individuals Having A Similar Mission For The Indian Sustainable Growth Of The Society. Our Philanthropic Approach Is For Sustainable Economy, Society And Environment Development And Uplifting. We Are Dedicated For Empowerment Of Underprivileged Section Of The Society. We Have Started Our Journey From Chhattisgarh Being A Deprived, Marginalized And Tribal Area Of The Country. Our Mission Is To Work For The Creation, Protection And Nurturing Of Poverty Free, Educated, Skilled, Women Empowered, Prosperous And Healthy Society Through Philanthropic Thinking, High Governance And Best Practices Across The Globe.",
+    "Why": [
+      "Shiksha",
+      "Swastha & Swacchta",
+      "Sanrkshan"
+    ],
+    "Why2": [
+    "Ajiveeka",
+      "Shashkt",
+      "Parinam"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "SANITARY PADS PRODUCTION",
+      "paragraph":" I am Reeta, a rural woman, living in Korba, a small district in Chattisgarh. I along with other members of our self-help group collect tamarind from the jungle and sell it. Before TARU NGO’s help, it was difficult for us to earn much. But now through online selling to food industries and other retailers, we are working good ",
+      "smallImage": "img/portfolio/pads.jpg"
+    },
+    {
+      "title": "LAC PRODUCTION",
+      "paragraph":"Pratima, Rashi and Vimal show the six steps of making a reusable pad,Making a reusable sanitary pad is easy. On a small square of old clothing, cut two pieces of material using a paper pad template. Sew the two pieces of material together and fill them with a disposable piece of cloth for absorption. Include buttons on the wings of the pad to help make the pad secure. Leftover material can always be used to make more pads.",
+      "smallImage": "img/portfolio/literacy.jpg"
+    },
+    {
+      "title": "TAMARIND COLLECTION",
+ "paragraph":" I am Reeta, a rural woman, living in Korba, a small district in Chattisgarh. I along with other members of our self-help group collect tamarind from the jungle and sell it. Before TARU NGO’s help, it was difficult for us to earn much. But now through online selling to food industries and other retailers, we are working good ",
+      "smallImage": "img/portfolio/tamarind.jpg"
+    }
+   
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Korba District, Chhatisgarh",
+    "phone": "+91 7067194742",
+    "email": "SUPPORT@TARUFOUNDATION.COM",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Give Donation",
+      "text": "Make a difference, Donate Taru"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Become Volunteer",
+      "text": "You make a life by what you give."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Give Scholarship",
+      "text": "Support a child in the educational transformation journey."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Register Events",
+      "text": "Partcipate in ice-breaking events! "
+    }
+  ]
+}

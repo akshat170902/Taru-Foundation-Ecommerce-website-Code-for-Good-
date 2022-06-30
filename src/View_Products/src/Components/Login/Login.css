@@ -1,0 +1,53 @@
+.loginParentDiv {
+  border: 3px solid black;
+  width: max-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 6px;
+}
+
+.loginParentDiv .input {
+  font-weight: 500;
+  margin: 5px;
+}
+
+.loginParentDiv label {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.loginParentDiv button {
+  width: 100%;
+  height: 48px;
+  border-color: transparent;
+  border-radius: 30px;
+  background-color: #06283D;
+  color: whitesmoke;
+  font-weight: 500;
+
+
+}
+
+.loginParentDiv button:hover {
+  background-color: white;
+  color: #002f34;
+  border: 2px solid #002f34;
+}
+
+.loginParentDiv a {
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: 500;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.loginParentDiv img {
+  position: top;
+  margin-bottom: 3em;
+}
